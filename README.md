@@ -1,4 +1,4 @@
-# Above is the source code for our placehack2023 website. Slides can be found below.
+# PlaceHack2023
 
 
 
